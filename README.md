@@ -1,7 +1,5 @@
 # ClipPal
 
-# ClipPal
-
 **ClipPal** is a lightweight, privacy-focused clipboard history manager for macOS. It helps you keep track of your recent copied items (like text, code snippets) without getting in your way.
 
 **ClipPal** 是一款轻量、注重隐私的 macOS 剪贴板历史管理工具。它能帮你记录最近复制的文本、代码片段等内容，且不占用系统资源。
